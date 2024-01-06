@@ -5,11 +5,11 @@
 # Hubsky
 An iOS app with a suite of essential tools built for UConn students
 <div>
-  <a href="https://github.com/mattfrias/hubsky/releases/latest"><img src="https://img.shields.io/github/v/release/mattfrias/hubsky?color=000e2f" /></a>
-	<a href="https://apps.apple.com/us/app/hubsky/id6474400347"><img src="https://img.shields.io/itunes/v/6474400347?color=000e2f" /></a>
-  
-<a href='https://hubsky.top'><img align='center' alt='website' src='https://img.shields.io/website?url=https%3A%2F%2Fhubsky.top&label=hubsky.top&color=ffffff'></a>
-<a href='https://mattfrias.com'><img align='center' alt='mattfrias' src='https://img.shields.io/badge/created_by_mattfrias-_-white'></a>
+	<a href="https://github.com/mattfrias/hubsky/releases/latest"><img src="https://img.shields.io/github/v/release/mattfrias/hubsky?style=for-the-badge&logo=github&color=000e2f" /></a>
+	<a href="https://apps.apple.com/us/app/hubsky/id6474400347"><img src="https://img.shields.io/itunes/v/6474400347?logo=apple&style=for-the-badge&label=app%20store&color=000e2f" /></a>
+	
+<a href='https://hubsky.top'><img align='center' alt='website' src='https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fhubsky.top&label=hubsky.top&color=ffffff'></a>
+<a href='https://mattfrias.com'><img align='center' alt='mattfrias' src='https://img.shields.io/badge/created_by-mattfrias-white?style=for-the-badge'></a>
 
 </div>
 <div class="clear"></div>
