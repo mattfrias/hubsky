@@ -18,6 +18,10 @@ An iOS app with a suite of essential tools built for UConn students
 > Built with <a href="https://reactnative.dev/" target="_blank">React Native</a> (managed by <a href="https://expo.dev/" target="_blank">Expo</a>), <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>, and <a href="https://reactnavigation.org/" target="_blank">React Navigation</a>. Using <a href="https://onesignal.com/" target="_blank">OneSignal</a> for notifications and <a href="https://vexo.co/" target="_blank">Vexo Analytics</a> for analytics and usage data.
 #
 
+<p align="center">
+  <img src="assets/screenshots.png" alt="screenshots" height="550" />
+</p>
+
 ### Introducing Hubsky – Your Ultimate Campus Companion!
 
 Welcome to Hubsky, the all-in-one app designed to streamline your college experience! Hubsky is the go-to destination for students looking to stay organized, well-fed, and connected on campus. With a sleek and intuitive interface, this app seamlessly integrates essential tools to enhance your university life.
