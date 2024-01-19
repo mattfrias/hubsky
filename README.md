@@ -15,7 +15,7 @@ An iOS app with a suite of essential tools built for UConn students
 <div class="clear"></div>
 
 #
-> Built with <a href="https://reactnative.dev/" target="_blank">React Native</a> (managed by <a href="https://expo.dev/" target="_blank">Expo</a>), <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>, and <a href="https://reactnavigation.org/" target="_blank">React Navigation</a>. Using <a href="https://onesignal.com/" target="_blank">OneSignal</a> for notifications and <a href="https://vexo.co/" target="_blank">Vexo Analytics</a> for analytics and usage data.
+> Built with <a href="https://reactnative.dev/" target="_blank">React Native</a> (managed by <a href="https://expo.dev/" target="_blank">Expo</a>), <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>, and <a href="https://reactnavigation.org/" target="_blank">React Navigation</a>. Using <a href="https://onesignal.com/" target="_blank">OneSignal</a> for notifications and <a href="https://amplitude.com/" target="_blank">Amplitude</a> for analytics and usage data.
 #
 
 <p align="center">
