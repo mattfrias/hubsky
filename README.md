@@ -44,4 +44,4 @@ Download Hubsky now and embark on a smoother, more organized college journey. Wh
 
 #
 
-© Hubsky 2024 All Right Reserved.
+© Hubsky 2024 All Rights Reserved.
